@@ -1,0 +1,29 @@
+{
+  "name": "module-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests available'"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^2.4.0",
+    "lint-staged": "^8.2.0",
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "module-boilerplate"
+  },
+  "keywords": [
+    "module",
+    "boilerplate",
+    "node_module",
+    "node"
+  ],
+  "author": "JT Houk <jt1992@gmail.com> (https://jt.houkasaurus.com/)",
+  "license": "MIT"
+}
