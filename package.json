@@ -1,6 +1,6 @@
 {
   "name": "@pterobyte/create-project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI to bootstrap new projects",
   "main": "src/cli.js",
   "bin": {
