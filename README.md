@@ -1,18 +1,19 @@
-# Module Boilerplate
+# Create Project
 
-[![NPM Total Downloads](https://img.shields.io/npm/dt/module-boilerplate.svg)](https://www.npmjs.com/package/module-boilerplate)
-[![David Dependencies Status](https://david-dm.org/pterobyte/module-boilerplate.svg)](https://david-dm.org/pterobyte/module-boilerplate)
-[![devDependencies Status](https://david-dm.org/pterobyte/module-boilerplate/dev-status.svg)](https://david-dm.org/pterobyte/module-boilerplate?type=dev)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Pterobyte/module-boilerplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Pterobyte/module-boilerplate/context:javascript)
-[![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pterobyte/module-boilerplate/master)
+[![NPM Total Downloads](https://img.shields.io/npm/dt/create-project.svg)](https://www.npmjs.com/package/create-project)
+[![David Dependencies Status](https://david-dm.org/pterobyte/create-project.svg)](https://david-dm.org/pterobyte/create-project)
+[![devDependencies Status](https://david-dm.org/pterobyte/create-project/dev-status.svg)](https://david-dm.org/pterobyte/create-project?type=dev)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Pterobyte/create-project.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Pterobyte/create-project/context:javascript)
+[![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pterobyte/create-project/master)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Brief description or tagline
+CLI tool to generate projects from github templates
 
-![screenshots](assets/npm.jpg)
+![npm](assets/npm.jpg)
+![vuepress](assets/vuepress.png)
 
-Explanation and purpose of module
+Downloads boilerplates from specified github templates and configurations
 
 ## Contents  
 
@@ -33,13 +34,13 @@ Explanation and purpose of module
 - With NPM
 
   ```sh
-  npm install module-boilerplate
+  npm install create-project
   ```
 
 - With Yarn
 
   ```sh
-  yarn add module-boilerplate
+  yarn add create-project
   ```
 
 ## API Reference
@@ -63,7 +64,7 @@ Parameter        | Type                          | Description                  
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/pterobyte/module-boilerplate/.github/CONTRIBUTING.md/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/pterobyte/create-project/.github/CONTRIBUTING.md/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -71,7 +72,7 @@ Please read [CONTRIBUTING.md](https://github.com/pterobyte/module-boilerplate/.g
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/pterobyte/module-boilerplate/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pterobyte/create-project/LICENSE) file for details
 
 ## Acknowledgments
 
