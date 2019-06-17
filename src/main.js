@@ -37,7 +37,7 @@ async function initGit(options) {
 async function cloneRepo(templatesPath, repo) {
   const result = await execa(
     'git',
-    ['poop', `https://github.com/Pterobyte/${repo}.git`, repo.split('-')[0]],
+    ['clone', `https://github.com/Pterobyte/${repo}.git`, repo.split('-')[0]],
     {
       cwd: templatesPath
     }

@@ -38,7 +38,6 @@ function parseArgumentsIntoOptions(rawArgs) {
  * @returns {options} Options
  */
 async function promptForMissingOptions(options) {
-  console.log(options)
   const defaultTemplate = 'Module'
   if (options.skipPrompts) {
     return {
