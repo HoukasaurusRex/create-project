@@ -10,8 +10,8 @@
 
 CLI tool to generate projects from github templates
 
-![npm](assets/npm.jpg)
-![vuepress](assets/vuepress.png)
+![npm](https://raw.githubusercontent.com/Pterobyte/create-project/master/assets/npm.jpg)
+![vuepress](https://raw.githubusercontent.com/Pterobyte/create-project/master/assets/vuepress.png)
 
 Downloads boilerplates from specified github templates and configurations
 
